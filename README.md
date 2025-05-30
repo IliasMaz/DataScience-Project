@@ -160,17 +160,6 @@ The K-Means algorithm identified three distinct customer segments:
 
 * The notebook indicates that a full RFM (Recency, Frequency, Monetary) analysis was challenging due to the dataset showing a purchase frequency of 1 for all clients after cleaning. Investigating this further with more granular or extensive data could be a valuable next step.
 
----
-
-## 🤝 Contributing
-
-Pull requests are highly encouraged! For significant alterations, please open an issue beforehand to discuss the proposed changes.
-
----
-
-## 📜 License
-
-[Specify your project's license here. Examples: MIT, Apache 2.0. If you're unsure, resources like choosealicense.com can help.]
 
 ---
 
@@ -178,5 +167,3 @@ Pull requests are highly encouraged! For significant alterations, please open an
 
 To ensure reproducibility, it's crucial to list the exact versions of the libraries used. After installing all necessary packages in your virtual environment, generate the `requirements.txt` file using:
 
-```bash
-pip freeze > requirements.txt
