@@ -106,22 +106,7 @@ The K-Means algorithm identified three distinct customer segments:
 
 ## ⚙️ Setup & Installation
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [REPOSITORY_NAME]
-    ```
-2.  **Create and Activate a Virtual Environment** (Recommended):
-    ```bash
-    python -m venv venv
-    # On macOS/Linux:
-    source venv/bin/activate
-    # On Windows:
-    # venv\Scripts\activate
-    ```
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
+
     ```
     *(See below for notes on generating `requirements.txt`)*
 
